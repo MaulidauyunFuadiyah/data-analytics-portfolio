@@ -17,7 +17,7 @@ Framework ini digunakan untuk memahami alur berpikir dalam menganalisis suatu ka
 ---
 
 ## 📂 Deliverables
-- **File Presentasi:** `analytical-thinking-framework-task01.pptx`  
+- **File Presentasi:** `Introduction to Data Analytics.pptx`  
 - **Isi Framework:**  
   1. **Background** → penjelasan singkat kasus / masalah yang dianalisis  
   2. **Objective** → tujuan analisis data  
