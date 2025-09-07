@@ -13,3 +13,8 @@ Smaller exercises focused on SQL, Excel, Analytical Thinking, Python, and Data V
 - **SQL Aggregation Practice** → Queries to calculate revenue per city.  
 - **Excel Analysis** → Pivot tables and VLOOKUP for customer data.  
 - **Analytical Thinking Case** → Business scenario: finding above-average spenders. 
+
+---
+## 📫 Kontak
+- LinkedIn: [Maulidauyun Fuadiyah](https://www.linkedin.com/in/maulidauyun-fuadiyah-14569716a/) 
+- Email: maulida.uyun232526@gmail.com
